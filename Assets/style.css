@@ -1,0 +1,48 @@
+body {
+  background-color: #dddddd; 
+}
+
+h1, 
+h2 {
+  color: #ff5900;
+  font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+  color: #ff5900;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+  color: #b5eaf6;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn:focus, .btn:active, .btn:visited {
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: #fbfbfb;
+}
+
+#finalScore {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+span {
+  font-family: 'Figtree', sans-serif;
+}
+
+p {
+  font-family: 'Figtree', sans-serif;
+}
+
+#questionTitle {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+  font-style: italic;
+  color: #4D5159;
+}
